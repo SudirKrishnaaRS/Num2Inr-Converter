@@ -61,14 +61,12 @@ const Convert = () => {
     <>
       <h1>Convert Number to Words</h1>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
           <img
             src={heroBanner}
             className="logo"
             alt="Number to words convertion logo"
             width={350}
           />
-        </a>
       </div>
       <p className="helper-text">
         Enter a number to convert into words in Indian Rupee (INR) format.
