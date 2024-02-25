@@ -13,6 +13,17 @@
   color: #888;
 }
 
+.currencyInputField {
+  width: 220px;
+  margin: 0px 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 220px;
+  padding: 10px 0;
+}
+
 .copy {
   padding: 0.3em;
 }
